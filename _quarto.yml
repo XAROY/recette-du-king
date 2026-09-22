@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: ""
+
+  navbar:
+    logo: image/LesRecetteduRoy1.png
+    tools:
+      - icon: github
+        menu:
+          - text: Report a Bug
+            href:  https://bugs.com
+    left:
+      - text: Entrées
+        href: entrees.qmd
+      - text: Plats-Principaux
+        href: plats-principaux.qmd
+      - text: Desserts
+        href: desserts.qmd
+      - text: Collations
+        href: collations.qmd
+      - text: Déjeuners
+        href: dejeuners.qmd
+    right:
+      - href: infolettre.qmd
+        text: Infolettre
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+
+editor: visual
