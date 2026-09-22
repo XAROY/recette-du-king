@@ -1,0 +1,7 @@
+/* css styles */
+body {
+  background-color: #f7f3ef; /* couleur unie douce */
+}
+.navbar-brand img {
+  max-height: 40px !important;
+}
