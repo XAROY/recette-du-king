@@ -11,20 +11,26 @@ website:
         menu:
           - text: Report a Bug
             href:  https://bugs.com
+            
     left:
       - text: Entrées
-        href: entrees.qmd
+        href: recettes/entrees.qmd
+        
       - text: Plats-Principaux
-        href: plats-principaux.qmd
+        href: recettes/plats-principaux.qmd
+        
       - text: Desserts
-        href: desserts.qmd
+        href: recettes/desserts.qmd
+        
       - text: Collations
-        href: collations.qmd
+        href: recettes/collations.qmd
+        
       - text: Déjeuners
-        href: dejeuners.qmd
+        href: recettes/dejeuners.qmd
+
     right:
-      - href: infolettre.qmd
-        text: Infolettre
+      - text: Infolettre
+        href: recettes/infolettre.qmd
 
 format:
   html:

@@ -1,0 +1,12 @@
+---
+title: "Collations"
+
+listing:
+  contents: collations
+  sort: title
+  type: default
+---
+
+# Collations
+
+Retrouvez ici toutes les recettes de collations.

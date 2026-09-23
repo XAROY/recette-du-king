@@ -5,6 +5,4 @@ title: "Bienvenue"
 # Recettes vedettes
 
 # Nouveautés
-- Gâteaux sans gluten en épicerie  
-- Dossier : On s’éclate avec la tomate  
-- Crème glacée express bananes & érabl 
+
