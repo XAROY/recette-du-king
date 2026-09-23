@@ -1,51 +1,51 @@
 [
   {
-    "objectID": "plats-principaux.html",
-    "href": "plats-principaux.html",
+    "objectID": "recettes/plats-principaux.html",
+    "href": "recettes/plats-principaux.html",
     "title": "Les entrées",
     "section": "",
     "text": "About this site"
   },
   {
-    "objectID": "entrees.html",
-    "href": "entrees.html",
+    "objectID": "recettes/desserts.html",
+    "href": "recettes/desserts.html",
     "title": "Les entrées",
     "section": "",
     "text": "About this site"
   },
   {
-    "objectID": "dejeuners.html",
-    "href": "dejeuners.html",
-    "title": "Les entrées",
+    "objectID": "recettes/collations.html",
+    "href": "recettes/collations.html",
+    "title": "Collations",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "collation.html",
-    "href": "collation.html",
-    "title": "Les entrées",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "dessert.html",
-    "href": "dessert.html",
-    "title": "Les entrées",
-    "section": "",
-    "text": "About this site"
+    "text": "Collations\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes de Xav\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bienvenue",
     "section": "",
-    "text": "Recettes vedettes\n\n\nNouveautés\n\nGâteaux sans gluten en épicerie\n\nDossier : On s’éclate avec la tomate\n\nCrème glacée express bananes & érabl"
+    "text": "Recettes vedettes\n\n\nNouveautés"
+  },
+  {
+    "objectID": "recettes/collations/muffin_Carottes_xav.html",
+    "href": "recettes/collations/muffin_Carottes_xav.html",
+    "title": "Muffins aux carottes de Xav",
+    "section": "",
+    "text": "Ingrédients\nSecs\n\n1 1/2 tasse de farine tout-usage ou au blé entier,\n1/2 tasse de flocons d’avoine,\n1 c. à thé de bicarbonate de soude,\n1/2 c. à thé de poudre à pâte,\n1 c. à thé de cannelle moulue,\n1/2 c. à thé de sel,\n\nHumides\n\n2 tasses de carottes râpées,\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde,\n3/4 tasse de yogourt nature ou à la vanille,\n2 oeufs,\n1 c. à thé d’extrait de vanille\n\nExatrat\n\n1 tasse de pacanes ou de noix de Grenoble hachées,\n1 tasse de caneberge\n\n\n\nPréparation\n\nPréchauffer le four à 375°F.\nDans un grand bol, mélanger les ingrédients secs à l’aide d’une fourchette.\nAu centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu’à ce que les ingrédients secs et humides forment un mélange uniforme.\nAjouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois.\nRépartir la pâte dans 12 moules à muffins.\nCuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu’à ce que le bout d’un petit couteau coupant piqué au centre d’un muffin en ressorte propre."
+  },
+  {
+    "objectID": "recettes/dejeuners.html",
+    "href": "recettes/dejeuners.html",
+    "title": "Les entrées",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "recettes/entrees.html",
+    "href": "recettes/entrees.html",
+    "title": "Les entrées",
+    "section": "",
+    "text": "About this site"
   }
 ]
