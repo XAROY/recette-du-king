@@ -1,0 +1,45 @@
+/* =========================================================
+   LES RECETTES DU ROY — Thème personnalisé
+   ========================================================= */
+
+/*-- scss:defaults --*/
+
+$fond_pale: #f5f0e1;
+$bar_haut: #1F1F1F;
+$Or: #C7921B;
+
+$body-bg: $fond_pale;
+
+$navbar-bg: $bar_haut;
+$navbar-fg: $Or;
+$navbar-hl: lighten($Or, 10%);
+
+
+/*-- scss:rules --*/
+
+/* ---------- Général ---------- */
+
+body {
+  background-color: $fond_pale;
+}
+
+
+/* ---------- Navbar ---------- */
+
+.navbar {
+  background-color: $bar_haut !important;
+}
+
+.navbar-brand {
+  img {
+    max-height: 40px !important;
+  }
+}
+
+/* ----------- Titre ---------- */
+
+h2 {
+  border-bottom: 3px solid $Or;
+  padding-bottom: 0.3rem;
+  margin-top: 1.5rem;
+}

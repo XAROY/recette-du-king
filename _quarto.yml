@@ -9,8 +9,8 @@ website:
     tools:
       - icon: github
         menu:
-          - text: Report a Bug
-            href:  https://bugs.com
+          - text: Inspiration
+            href: https://etienneplante17.github.io/pool_draft/
             
     left:
       - text: Entrées
@@ -22,9 +22,6 @@ website:
       - text: Desserts
         href: recettes/desserts.qmd
         
-      - text: Collations
-        href: recettes/collations.qmd
-        
       - text: Déjeuners
         href: recettes/dejeuners.qmd
 
@@ -34,8 +31,9 @@ website:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      - cosmo
+      - theme.scss
     toc: false
     page-layout: full
 

@@ -1,6 +1,12 @@
 ---
-title: "Les entrées"
+title: "Déjeuners"
+
+listing:
+  contents: dejeuners
+  sort: title
+  type: default
 ---
 
-About this site
+# Déjeuners
 
+Retrouvez ici toutes les recettes de collations.

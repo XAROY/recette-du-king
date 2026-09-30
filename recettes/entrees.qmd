@@ -1,6 +1,12 @@
 ---
-title: "Les entrées"
+title: "Entrées"
+
+listing:
+  contents: entrees
+  sort: title
+  type: default
 ---
 
-About this site
+# Entrées
 
+Retrouvez ici toutes les recettes de collations.

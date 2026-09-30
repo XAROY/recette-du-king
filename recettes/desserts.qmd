@@ -1,6 +1,12 @@
 ---
-title: "Les entrées"
+title: "Desserts"
+
+listing:
+  contents: desserts
+  sort: title
+  type: default
 ---
 
-About this site
+# Desserts
 
+Retrouvez ici toutes les recettes de collations.

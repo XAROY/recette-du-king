@@ -2,6 +2,8 @@
 title: "Bienvenue"
 ---
 
+![](image/logo_haut_page.png)
+
 # Recettes vedettes
 
 # Nouveautés

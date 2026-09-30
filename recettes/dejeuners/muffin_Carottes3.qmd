@@ -1,5 +1,5 @@
 ---
-title: "Muffins aux carottes de Xav"
+title: "Muffins aux carottes"
 author: "Xavier Roy"
 categories:
   - Collation
