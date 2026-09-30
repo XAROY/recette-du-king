@@ -7,18 +7,39 @@
     "text": "About this site"
   },
   {
-    "objectID": "recettes/desserts.html",
-    "href": "recettes/desserts.html",
-    "title": "Les entrées",
+    "objectID": "recettes/entrees.html",
+    "href": "recettes/entrees.html",
+    "title": "Entrées",
     "section": "",
-    "text": "About this site"
+    "text": "Entrées\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "recettes/collations.html",
-    "href": "recettes/collations.html",
-    "title": "Collations",
+    "objectID": "recettes/desserts.html",
+    "href": "recettes/desserts.html",
+    "title": "Desserts",
     "section": "",
-    "text": "Collations\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes de Xav\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+    "text": "Desserts\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCroustade aux pommes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recettes/desserts/croustarde_pommes.html#garniture",
+    "href": "recettes/desserts/croustarde_pommes.html#garniture",
+    "title": "Croustade aux pommes",
+    "section": "Garniture",
+    "text": "Garniture\n\n1 tasse de beurre\n2 tasses de cassonade\n1 tasse de farine\n1 1/2 tasse de flocons d’avoine"
+  },
+  {
+    "objectID": "recettes/desserts/croustarde_pommes.html#extras",
+    "href": "recettes/desserts/croustarde_pommes.html#extras",
+    "title": "Croustade aux pommes",
+    "section": "Extras",
+    "text": "Extras\n\nAjouter des poires au mélange de pommes"
+  },
+  {
+    "objectID": "recettes/dejeuners/muffin_Carottes3.html",
+    "href": "recettes/dejeuners/muffin_Carottes3.html",
+    "title": "Muffins aux carottes",
+    "section": "",
+    "text": "Ingrédients\nSecs\n\n1 1/2 tasse de farine tout-usage ou au blé entier,\n1/2 tasse de flocons d’avoine,\n1 c. à thé de bicarbonate de soude,\n1/2 c. à thé de poudre à pâte,\n1 c. à thé de cannelle moulue,\n1/2 c. à thé de sel,\n\nHumides\n\n2 tasses de carottes râpées,\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde,\n3/4 tasse de yogourt nature ou à la vanille,\n2 oeufs,\n1 c. à thé d’extrait de vanille\n\nExatrat\n\n1 tasse de pacanes ou de noix de Grenoble hachées,\n1 tasse de caneberge\n\n\n\nPréparation\n\nPréchauffer le four à 375°F.\nDans un grand bol, mélanger les ingrédients secs à l’aide d’une fourchette.\nAu centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu’à ce que les ingrédients secs et humides forment un mélange uniforme.\nAjouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois.\nRépartir la pâte dans 12 moules à muffins.\nCuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu’à ce que le bout d’un petit couteau coupant piqué au centre d’un muffin en ressorte propre."
   },
   {
     "objectID": "index.html",
@@ -28,24 +49,52 @@
     "text": "Recettes vedettes\n\n\nNouveautés"
   },
   {
-    "objectID": "recettes/collations/muffin_Carottes_xav.html",
-    "href": "recettes/collations/muffin_Carottes_xav.html",
-    "title": "Muffins aux carottes de Xav",
+    "objectID": "recettes/dejeuners.html",
+    "href": "recettes/dejeuners.html",
+    "title": "Déjeuners",
+    "section": "",
+    "text": "Déjeuners\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html",
+    "href": "recettes/desserts/muffin_Carottes.html",
+    "title": "Muffins aux carottes",
+    "section": "",
+    "text": "1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel\n\n\n\n\n\n2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille\n\n\n\n\n\n1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#secs",
+    "href": "recettes/desserts/muffin_Carottes.html#secs",
+    "title": "Muffins aux carottes",
+    "section": "",
+    "text": "1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#humides",
+    "href": "recettes/desserts/muffin_Carottes.html#humides",
+    "title": "Muffins aux carottes",
+    "section": "",
+    "text": "2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#extras",
+    "href": "recettes/desserts/muffin_Carottes.html#extras",
+    "title": "Muffins aux carottes",
+    "section": "",
+    "text": "1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+  },
+  {
+    "objectID": "recettes/entrees/muffin_Carottes2.html",
+    "href": "recettes/entrees/muffin_Carottes2.html",
+    "title": "Muffins aux carottes",
     "section": "",
     "text": "Ingrédients\nSecs\n\n1 1/2 tasse de farine tout-usage ou au blé entier,\n1/2 tasse de flocons d’avoine,\n1 c. à thé de bicarbonate de soude,\n1/2 c. à thé de poudre à pâte,\n1 c. à thé de cannelle moulue,\n1/2 c. à thé de sel,\n\nHumides\n\n2 tasses de carottes râpées,\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde,\n3/4 tasse de yogourt nature ou à la vanille,\n2 oeufs,\n1 c. à thé d’extrait de vanille\n\nExatrat\n\n1 tasse de pacanes ou de noix de Grenoble hachées,\n1 tasse de caneberge\n\n\n\nPréparation\n\nPréchauffer le four à 375°F.\nDans un grand bol, mélanger les ingrédients secs à l’aide d’une fourchette.\nAu centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu’à ce que les ingrédients secs et humides forment un mélange uniforme.\nAjouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois.\nRépartir la pâte dans 12 moules à muffins.\nCuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu’à ce que le bout d’un petit couteau coupant piqué au centre d’un muffin en ressorte propre."
   },
   {
-    "objectID": "recettes/dejeuners.html",
-    "href": "recettes/dejeuners.html",
-    "title": "Les entrées",
+    "objectID": "recettes/plats-principaux/muffin_Carottes1.html",
+    "href": "recettes/plats-principaux/muffin_Carottes1.html",
+    "title": "Muffins aux carottes",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "recettes/entrees.html",
-    "href": "recettes/entrees.html",
-    "title": "Les entrées",
-    "section": "",
-    "text": "About this site"
+    "text": "Ingrédients\nSecs\n\n1 1/2 tasse de farine tout-usage ou au blé entier,\n1/2 tasse de flocons d’avoine,\n1 c. à thé de bicarbonate de soude,\n1/2 c. à thé de poudre à pâte,\n1 c. à thé de cannelle moulue,\n1/2 c. à thé de sel,\n\nHumides\n\n2 tasses de carottes râpées,\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde,\n3/4 tasse de yogourt nature ou à la vanille,\n2 oeufs,\n1 c. à thé d’extrait de vanille\n\nExatrat\n\n1 tasse de pacanes ou de noix de Grenoble hachées,\n1 tasse de caneberge\n\n\n\nPréparation\n\nPréchauffer le four à 375°F.\nDans un grand bol, mélanger les ingrédients secs à l’aide d’une fourchette.\nAu centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu’à ce que les ingrédients secs et humides forment un mélange uniforme.\nAjouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois.\nRépartir la pâte dans 12 moules à muffins.\nCuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu’à ce que le bout d’un petit couteau coupant piqué au centre d’un muffin en ressorte propre."
   }
 ]

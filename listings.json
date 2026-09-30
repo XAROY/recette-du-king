@@ -1,8 +1,21 @@
 [
   {
-    "listing": "/recettes/collations.html",
+    "listing": "/recettes/entrees.html",
     "items": [
-      "/recettes/collations/muffin_Carottes_xav.html"
+      "/recettes/entrees/muffin_Carottes2.html"
+    ]
+  },
+  {
+    "listing": "/recettes/desserts.html",
+    "items": [
+      "/recettes/desserts/croustarde_pommes.html",
+      "/recettes/desserts/muffin_Carottes.html"
+    ]
+  },
+  {
+    "listing": "/recettes/dejeuners.html",
+    "items": [
+      "/recettes/dejeuners/muffin_Carottes3.html"
     ]
   }
 ]
