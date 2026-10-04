@@ -1,6 +1,15 @@
 ---
-title: "Les entrées"
+title: "Plats-Principaux"
+
+listing:
+  contents: plats-principaux
+  sort: title
+  type: grid
+  filter-ui: true
+  categories: true
+  fields: [image, title]
 ---
 
-About this site
+# Plats-Principaux
 
+Retrouvez ici toutes les recettes de collations.

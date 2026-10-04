@@ -4,7 +4,10 @@ title: "Entrées"
 listing:
   contents: entrees
   sort: title
-  type: default
+  type: grid
+  filter-ui: true
+  categories: true
+  fields: [image, title]
 ---
 
 # Entrées

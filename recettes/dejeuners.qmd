@@ -4,7 +4,10 @@ title: "Déjeuners"
 listing:
   contents: dejeuners
   sort: title
-  type: default
+  type: grid
+  filter-ui: true
+  categories: true
+  fields: [image, title]
 ---
 
 # Déjeuners

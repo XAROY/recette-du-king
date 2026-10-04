@@ -4,7 +4,10 @@ title: "Desserts"
 listing:
   contents: desserts
   sort: title
-  type: default
+  type: grid
+  filter-ui: true
+  categories: true
+  fields: [image, title]
 ---
 
 # Desserts

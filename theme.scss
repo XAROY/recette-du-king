@@ -43,3 +43,110 @@ h2 {
   padding-bottom: 0.3rem;
   margin-top: 1.5rem;
 }
+
+/* =========================================================
+   EN-TÊTE DES RECETTES
+   ========================================================= */
+
+.recette-entete {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  gap: 3rem;
+
+  align-items: start;
+
+  margin: 2rem 0 4rem 0;
+  padding-bottom: 3rem;
+
+  border-bottom: 2px solid $Or;
+}
+
+
+/* ---------- Image ---------- */
+
+.recette-image img {
+  width: 100%;
+  height: auto;
+
+  display: block;
+
+  border-radius: 8px;
+}
+
+
+/* ---------- Informations ---------- */
+
+.recette-info {
+  text-align: left;
+}
+
+
+.recette-info h1 {
+  color: $bar_haut;
+
+  font-size: 2.2rem;
+
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+
+  border-bottom: 3px solid $Or;
+
+  padding-bottom: 0.5rem;
+}
+
+
+.recette-meta {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 0.8rem;
+
+  color: $bar_haut;
+
+  font-size: 1.1rem;
+}
+
+
+.recette-description {
+  font-weight: 500;
+}
+
+
+.recette-categorie {
+  font-weight: 500;
+}
+
+
+.recette-auteur {
+  margin-top: 2rem;
+
+  color: #666;
+
+  font-style: italic;
+}
+
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  .recette-entete {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .recette-info h1 {
+    font-size: 1.8rem;
+  }
+
+}
+
+
+/* Cache le title block Quarto sur les recettes */
+body:has(.recette-entete) .quarto-title-block {
+  display: none !important;
+}
