@@ -47,7 +47,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-e9ec3711b6642ac1e32886e0d15cd470.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-28b3535d8d4bd1dde2f9ec8ff3b96073.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -85,9 +85,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -198,9 +198,10 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="RGVzc2VydA==">Dessert <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -209,7 +210,7 @@ window.Quarto = {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -229,60 +230,39 @@ window.Quarto = {
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="RGVzc2VydA==" data-listing-file-modified-sort="1790729028234" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
-<div class="thumbnail"><a href="../recettes/desserts/croustarde_pommes.html" class="no-external">
-
-<p class="card-img-top"><img loading='lazy' src="..\image\croustarde_pomme.jpg"  class="thumbnail-image card-img"/></p>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../recettes/desserts/croustarde_pommes.html" class="no-external">Croustade aux pommes</a>
-</h3>
-<div class="delink listing-description"><a href="../recettes/desserts/croustarde_pommes.html" class="no-external">
-<em>Portion pour un plat Pyrex de 4 x 8 po</em>
-</a></div>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="metadata">
-<a href="../recettes/desserts/croustarde_pommes.html" class="no-external">
-<div class="listing-author">
-Xavier Roy
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="RGVzc2VydA==" data-listing-file-modified-sort="1791117791857" data-listing-reading-time-sort="1" data-listing-word-count-sort="87">
+<a href="../recettes/desserts/croustarde_pommes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../image/croustarde_pomme.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Croustade aux pommes
+</h5>
 </div>
-</a>
+</div></a>
 </div>
+<div class="g-col-1" data-index="1" data-categories="RGVzc2VydA==" data-listing-file-modified-sort="1791116914297" data-listing-reading-time-sort="2" data-listing-word-count-sort="238">
+<a href="../recettes/desserts/muffin_Carottes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../image/vic.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Muffins aux carottes
+</h5>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="RGVzc2VydA==" data-listing-file-modified-sort="1790727012901" data-listing-reading-time-sort="2" data-listing-word-count-sort="219">
-<div class="thumbnail"><a href="../recettes/desserts/muffin_Carottes.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="../recettes/desserts/muffin_Carottes.html" class="no-external">Muffins aux carottes</a>
-</h3>
-<div class="delink listing-description"><a href="../recettes/desserts/muffin_Carottes.html" class="no-external">
-
-
-<section id="secs" class="level2">
-
-<ul>
-<li>1 1/2 tasse de farine tout-usage ou au blé entier</li>
-<li>1/2 tasse de flocons d’avoine</li>
-<li>1 c.&nbsp;à thé de bicarbonate de soude</li>
-<li>1/2 c.&nbsp;à thé de poudre à pâte</li>
-<li>1 c.&nbsp;à thé de cannelle…</li><li></li></ul></section><section id="humides" class="level2"><ul><li></li><li><em></em></li><li></li><li></li><li></li><li></li></ul></section><section id="extras" class="level2"><ul><li></li><li></li></ul></section>
-</a></div>
-</div>
-<div class="metadata">
-<a href="../recettes/desserts/muffin_Carottes.html" class="no-external">
-<div class="listing-author">
-Xavier Roy
-</div>
-</a>
-</div>
+</div></a>
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>

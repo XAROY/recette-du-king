@@ -2,23 +2,30 @@
   {
     "objectID": "recettes/plats-principaux.html",
     "href": "recettes/plats-principaux.html",
-    "title": "Les entrées",
+    "title": "Plats-Principaux",
     "section": "",
-    "text": "About this site"
+    "text": "Plats-Principaux\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recettes/entrees.html",
     "href": "recettes/entrees.html",
     "title": "Entrées",
     "section": "",
-    "text": "Entrées\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+    "text": "Entrées\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recettes/desserts.html",
     "href": "recettes/desserts.html",
     "title": "Desserts",
     "section": "",
-    "text": "Desserts\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCroustade aux pommes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+    "text": "Desserts\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCroustade aux pommes\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "recettes/desserts/croustarde_pommes.html",
+    "href": "recettes/desserts/croustarde_pommes.html",
+    "title": "Croustade aux pommes",
+    "section": "",
+    "text": "Xavier Roy"
   },
   {
     "objectID": "recettes/desserts/croustarde_pommes.html#garniture",
@@ -53,35 +60,35 @@
     "href": "recettes/dejeuners.html",
     "title": "Déjeuners",
     "section": "",
-    "text": "Déjeuners\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\n\n\n\nXavier Roy\n\n\n\n\n\nNo matching items"
+    "text": "Déjeuners\nRetrouvez ici toutes les recettes de collations.\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recettes/desserts/muffin_Carottes.html",
     "href": "recettes/desserts/muffin_Carottes.html",
     "title": "Muffins aux carottes",
     "section": "",
-    "text": "1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel\n\n\n\n\n\n2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille\n\n\n\n\n\n1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+    "text": "⏱️ Cuisson : 25 min🍰 Catégorie : DessertPar Xavier Roy"
   },
   {
     "objectID": "recettes/desserts/muffin_Carottes.html#secs",
     "href": "recettes/desserts/muffin_Carottes.html#secs",
     "title": "Muffins aux carottes",
-    "section": "",
-    "text": "1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel"
+    "section": "Secs",
+    "text": "Secs\n\n1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel"
   },
   {
     "objectID": "recettes/desserts/muffin_Carottes.html#humides",
     "href": "recettes/desserts/muffin_Carottes.html#humides",
     "title": "Muffins aux carottes",
-    "section": "",
-    "text": "2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille"
+    "section": "Humides",
+    "text": "Humides\n\n2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille"
   },
   {
     "objectID": "recettes/desserts/muffin_Carottes.html#extras",
     "href": "recettes/desserts/muffin_Carottes.html#extras",
     "title": "Muffins aux carottes",
-    "section": "",
-    "text": "1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+    "section": "Extras",
+    "text": "Extras\n\n1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
   },
   {
     "objectID": "recettes/entrees/muffin_Carottes2.html",
