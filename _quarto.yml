@@ -5,7 +5,7 @@ website:
   title: ""
 
   navbar:
-    logo: image/LesRecetteduRoy1.png
+    logo: image/LesRecetteduRoyBeige.png
     tools:
       - icon: github
         menu:

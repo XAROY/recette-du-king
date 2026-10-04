@@ -5,10 +5,7 @@ description: "⏱️ Cuisson : 40 min"
 image: ../../image/croustarde_pomme.jpg
 categories:
   - Dessert
-  
-format:
-  html:
-    title-block-style: none
+title-block: false
 ---
 
 <!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
