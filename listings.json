@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/recettes/plats-principaux.html",
-    "items": [
-      "/recettes/plats-principaux/muffin_Carottes1.html"
-    ]
-  },
-  {
     "listing": "/recettes/entrees.html",
     "items": [
       "/recettes/entrees/muffin_Carottes2.html"
@@ -22,6 +16,12 @@
     "listing": "/recettes/dejeuners.html",
     "items": [
       "/recettes/dejeuners/muffin_Carottes3.html"
+    ]
+  },
+  {
+    "listing": "/recettes/plats-principaux.html",
+    "items": [
+      "/recettes/plats-principaux/poulet_katsu.html"
     ]
   }
 ]

@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://XAROY.github.io/recette-du-king/recettes/plats-principaux.html</loc>
-    <lastmod>2026-10-04T00:59:18.028Z</lastmod>
+    <loc>https://XAROY.github.io/recette-du-king/index.html</loc>
+    <lastmod>2026-10-09T21:01:42.494Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/entrees.html</loc>
-    <lastmod>2026-10-04T00:56:12.595Z</lastmod>
-  </url>
-  <url>
-    <loc>https://XAROY.github.io/recette-du-king/recettes/desserts.html</loc>
-    <lastmod>2026-10-04T00:53:43.873Z</lastmod>
+    <lastmod>2026-10-09T21:01:42.498Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/desserts/croustarde_pommes.html</loc>
-    <lastmod>2026-10-04T13:09:32.403Z</lastmod>
+    <lastmod>2026-10-11T14:18:52.700Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/dejeuners/muffin_Carottes3.html</loc>
-    <lastmod>2026-09-29T01:23:00.808Z</lastmod>
+    <lastmod>2026-10-09T21:01:42.496Z</lastmod>
   </url>
   <url>
-    <loc>https://XAROY.github.io/recette-du-king/index.html</loc>
-    <lastmod>2026-09-30T00:46:01.731Z</lastmod>
+    <loc>https://XAROY.github.io/recette-du-king/recettes/desserts.html</loc>
+    <lastmod>2026-10-09T21:01:42.496Z</lastmod>
+  </url>
+  <url>
+    <loc>https://XAROY.github.io/recette-du-king/recettes/plats-principaux/poulet_katsu.html</loc>
+    <lastmod>2026-10-11T15:18:27.656Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/dejeuners.html</loc>
-    <lastmod>2026-10-04T00:56:03.370Z</lastmod>
+    <lastmod>2026-10-09T21:01:42.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://XAROY.github.io/recette-du-king/recettes/plats-principaux.html</loc>
+    <lastmod>2026-10-09T21:01:42.499Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/desserts/muffin_Carottes.html</loc>
-    <lastmod>2026-10-04T12:28:34.297Z</lastmod>
+    <lastmod>2026-10-11T14:19:27.138Z</lastmod>
   </url>
   <url>
     <loc>https://XAROY.github.io/recette-du-king/recettes/entrees/muffin_Carottes2.html</loc>
-    <lastmod>2026-09-29T01:23:00.808Z</lastmod>
-  </url>
-  <url>
-    <loc>https://XAROY.github.io/recette-du-king/recettes/plats-principaux/muffin_Carottes1.html</loc>
-    <lastmod>2026-09-29T01:23:00.808Z</lastmod>
+    <lastmod>2026-10-09T21:01:42.499Z</lastmod>
   </url>
 </urlset>
