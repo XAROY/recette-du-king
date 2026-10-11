@@ -1,0 +1,39 @@
+---
+title: "Poulet Katsu"
+author: "Xavier Roy"
+description: "⏱️ Cuisson : 20 min"
+image: ../../image/LesRecetteduRoy.png
+categories:
+  - Plat-Principal
+  - Poulet
+title-block: false
+---
+
+<!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
+{{< recette >}}
+
+# Ingrédients
+
+## Poulet
+
+* 4 poitrines de poulet
+* 1/2 tasse de yogourt grec
+* 2 c. à soupe de mélange d'épice
+* 1 tasse de chapelure panko
+
+## Sauce
+
+* 1/2 tasse de sauce BBQ
+* 2 c. à soupe de sauce soya réduit en sel
+* 1 c. à soupe de sauce Worcesteshire
+* Sriracha au goût
+
+
+# Préparation
+
+1. Attendrire la viande pour les applatire d'une épaisseur uniforme
+2. Dans un bol mélanger le yogourt avec le mélange d'épice
+3. Enrober les poitrines dans le yogourt et tremper dans le panko
+4. Préchauffer le four (375 °F) ou friteuse à air (375 °F)
+5. Cuire dans une plaque et papier parchemin 18 minutes
+6. mettre la sauce sur le poulet trancher
