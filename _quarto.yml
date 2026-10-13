@@ -10,7 +10,7 @@ website:
       - icon: github
         menu:
           - text: Inspiration
-            href: https://etienneplante17.github.io/pool_draft/
+            href: https://github.com/XAROY/recette-du-king
             
     left:
       - text: Entrées
@@ -24,10 +24,6 @@ website:
         
       - text: Déjeuners
         href: recettes/dejeuners.qmd
-
-    right:
-      - text: Infolettre
-        href: recettes/infolettre.qmd
 
 format:
   html:

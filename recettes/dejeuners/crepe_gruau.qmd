@@ -1,0 +1,33 @@
+---
+title: "Crêpes au gruau"
+author: "Xavier Roy"
+description: "⏱️ Cuisson : 10 min"
+image: ../../image/LesRecetteduRoy.png
+categories:
+  - dejeuners
+title-block: false
+date: "2026-10-13"
+---
+
+<!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
+{{< recette >}}
+
+# Ingrédients
+
+## Poulet
+
+* 1 1/2 tasse de farine
+* 1 tasse de gruaux
+* 2 oeufs
+* 2 tasses de lait
+* 3c. à table d'huile
+* 1 c. à thé de poudre à pâte
+* 1/2 c. à table de sel
+
+
+
+# Préparation
+
+1. Mélanger au pied mélangeur ou au blender pour défaire le gruau
+2. cuire sur une plaque
+3. convient pour un déjeuner de 4 personne

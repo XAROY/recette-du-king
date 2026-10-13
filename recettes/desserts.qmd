@@ -1,6 +1,6 @@
 ---
 title: "Desserts"
-
+date: "2026-01-01"
 listing:
   contents: desserts
   sort: title
@@ -12,4 +12,3 @@ listing:
 
 # Desserts
 
-Retrouvez ici toutes les recettes de collations.

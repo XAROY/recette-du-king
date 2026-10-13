@@ -1,6 +1,6 @@
 ---
 title: "Déjeuners"
-
+date: "2026-01-01"
 listing:
   contents: dejeuners
   sort: title
@@ -12,4 +12,3 @@ listing:
 
 # Déjeuners
 
-Retrouvez ici toutes les recettes de collations.

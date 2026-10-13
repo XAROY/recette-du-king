@@ -7,6 +7,7 @@ categories:
   - Dessert
   - Pommes
 title-block: false
+date: "2026-09-09"
 ---
 
 <!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
