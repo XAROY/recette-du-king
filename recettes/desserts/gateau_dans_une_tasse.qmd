@@ -1,0 +1,29 @@
+---
+title: "Gateau dans une tasse"
+author: "Manon Ouellet"
+description: "⏱️ Cuisson : 1 min"
+image: ../../image/img_mug_cake.jpg
+categories:
+  - Dessert
+  - Micro-onde
+title-block: false
+date: "2026-10-28"
+---
+
+<!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
+{{< recette >}}
+
+# Ingrédients
+
+* 2 c. à soupe de beure tempéré
+* 1 oeuf
+* 2 c. à soupe de miel
+* 1/2 c. à thé d'essence de vanille
+* 4 c. à soupe de farine
+* 2 c. à soupe de sucre
+* 1 c. à thé de poudre à pâte
+
+# Préparation
+
+1. Dans une tasse, mélanger tous les ingrédients
+2. cuire au four micro-onde 70 secondes ou plus

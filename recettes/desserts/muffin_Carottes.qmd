@@ -2,7 +2,7 @@
 title: "Muffins aux carottes"
 author: "Xavier Roy"
 description: "⏱️ Cuisson : 25 min"
-image: ../../image/vic.png
+image: ../../image/img_muf_car.HEIC
 categories:
   - Dessert
   - Carottes
