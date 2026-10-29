@@ -1,5 +1,5 @@
 ---
-title: "Gateau dans une tasse"
+title: "Gâteau dans une tasse"
 author: "Manon Ouellet"
 description: "⏱️ Cuisson : 1 min"
 image: ../../image/img_mug_cake.jpg
@@ -15,7 +15,7 @@ date: "2026-10-28"
 
 # Ingrédients
 
-* 2 c. à soupe de beure tempéré
+* 2 c. à soupe de beurre tempéré
 * 1 oeuf
 * 2 c. à soupe de miel
 * 1/2 c. à thé d'essence de vanille

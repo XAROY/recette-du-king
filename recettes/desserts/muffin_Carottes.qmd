@@ -2,7 +2,7 @@
 title: "Muffins aux carottes"
 author: "Xavier Roy"
 description: "⏱️ Cuisson : 25 min"
-image: ../../image/img_muf_car.HEIC
+image: ../../image/img_muf_car.png
 categories:
   - Dessert
   - Carottes
@@ -28,7 +28,7 @@ date: "2026-09-10"
 
  * 2 tasses de carottes râpées
  * 1/3 tasse d'huile végétale de saveur neutre, (*ex. de canola, d'avocat*)
- * 2/3 tasse de sirop d'érable ou Cassonde
+ * 2/3 tasse de sirop d'érable ou cassonade
  * 3/4 tasse de yogourt nature ou à la vanille
  * 2 oeufs
  * 1 c. à thé d'extrait de vanille
@@ -37,7 +37,7 @@ date: "2026-09-10"
 ## Extras
 
  * 1 tasse de pacanes ou de noix de Grenoble hachées
- * 1 tasse de caneberge
+ * 1 tasse de canneberges
 
 # Préparation
 
@@ -47,4 +47,3 @@ date: "2026-09-10"
 4. Ajouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois
 5. Répartir la pâte dans 12 moules à muffins
 6. Cuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu'à ce que le bout d'un petit couteau coupant piqué au centre d'un muffin en ressorte propre
-
