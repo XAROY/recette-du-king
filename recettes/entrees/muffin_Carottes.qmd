@@ -1,0 +1,26 @@
+---
+title: "tempo"
+author: "Xavier Roy"
+description: "⏱️ Cuisson : 25 min"
+image: ../../image/LesRecetteduRoy.png
+categories:
+  - Dessert
+  - Carottes
+title-block: false
+date: "2026-09-10"
+---
+
+<!-- {{< recette >}} est utilisé pour créer l'entête de la page image gauche et infos droite -->
+{{< recette >}}
+
+# Ingrédients
+
+# Préparation
+
+1. Préchauffer le four à 375°F
+2. Dans un grand bol, mélanger les ingrédients secs à l'aide d'une fourchette
+3. Au centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu'à ce que les ingrédients secs et humides forment un mélange uniforme
+4. Ajouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois
+5. Répartir la pâte dans 12 moules à muffins
+6. Cuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu'à ce que le bout d'un petit couteau coupant piqué au centre d'un muffin en ressorte propre
+
