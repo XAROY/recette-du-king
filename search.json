@@ -4,35 +4,21 @@
     "href": "index.html",
     "title": "Bienvenue",
     "section": "",
-    "text": "Nouveautés\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCrêpes au gruau\n\n\n\n\n\n\n\n\n\n\n\n\nPoulet Katsu\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
+    "text": "Nouveautés\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGateau dans une tasse\n\n\n\n\n\n\n\n\n\n\n\n\nCrêpes au gruau\n\n\n\n\n\n\n\n\n\n\n\n\nPoulet Katsu\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "recettes/desserts/muffin_Carottes.html",
-    "href": "recettes/desserts/muffin_Carottes.html",
-    "title": "Muffins aux carottes",
+    "objectID": "recettes/entrees.html",
+    "href": "recettes/entrees.html",
+    "title": "Entrées",
     "section": "",
-    "text": "⏱️ Cuisson : 25 min🍰 Catégorie : Dessert, CarottesPar Xavier Roy"
+    "text": "Entrées\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\ntempo\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "recettes/desserts/muffin_Carottes.html#secs",
-    "href": "recettes/desserts/muffin_Carottes.html#secs",
-    "title": "Muffins aux carottes",
-    "section": "Secs",
-    "text": "Secs\n\n1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel"
-  },
-  {
-    "objectID": "recettes/desserts/muffin_Carottes.html#humides",
-    "href": "recettes/desserts/muffin_Carottes.html#humides",
-    "title": "Muffins aux carottes",
-    "section": "Humides",
-    "text": "Humides\n\n2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille"
-  },
-  {
-    "objectID": "recettes/desserts/muffin_Carottes.html#extras",
-    "href": "recettes/desserts/muffin_Carottes.html#extras",
-    "title": "Muffins aux carottes",
-    "section": "Extras",
-    "text": "Extras\n\n1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+    "objectID": "recettes/desserts/gateau_dans_une_tasse.html",
+    "href": "recettes/desserts/gateau_dans_une_tasse.html",
+    "title": "Gateau dans une tasse",
+    "section": "",
+    "text": "Gateau dans une tasse⏱️ Cuisson : 1 min🍰 Catégorie : Dessert, Micro-ondePar Manon Ouellet\n\nIngrédients\n\n2 c. à soupe de beure tempéré\n1 oeuf\n2 c. à soupe de miel\n1/2 c. à thé d’essence de vanille\n4 c. à soupe de farine\n2 c. à soupe de sucre\n1 c. à thé de poudre à pâte\n\n\n\nPréparation\n\nDans une tasse, mélanger tous les ingrédients\ncuire au four micro-onde 70 secondes ou plus"
   },
   {
     "objectID": "recettes/plats-principaux.html",
@@ -74,21 +60,14 @@
     "href": "recettes/desserts.html",
     "title": "Desserts",
     "section": "",
-    "text": "Desserts\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCroustade aux pommes\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
+    "text": "Desserts\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCroustade aux pommes\n\n\n\n\n\n\n\n\n\n\n\n\nGateau dans une tasse\n\n\n\n\n\n\n\n\n\n\n\n\nMuffins aux carottes\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recettes/dejeuners/crepe_gruau.html",
     "href": "recettes/dejeuners/crepe_gruau.html",
     "title": "Crêpes au gruau",
     "section": "",
-    "text": "⏱️ Cuisson : 10 min🍰 Catégorie : dejeunersPar Xavier Roy"
-  },
-  {
-    "objectID": "recettes/dejeuners/crepe_gruau.html#poulet",
-    "href": "recettes/dejeuners/crepe_gruau.html#poulet",
-    "title": "Crêpes au gruau",
-    "section": "Poulet",
-    "text": "Poulet\n\n1 1/2 tasse de farine\n1 tasse de gruaux\n2 oeufs\n2 tasses de lait\n3c. à table d’huile\n1 c. à thé de poudre à pâte\n1/2 c. à table de sel"
+    "text": "Crêpes au gruau⏱️ Cuisson : 10 min🍰 Catégorie : dejeunersPar Xavier Roy\n\nIngrédients\n\n1 1/2 tasse de farine\n1 tasse de gruaux\n2 oeufs\n2 tasses de lait\n3c. à table d’huile\n1 c. à thé de poudre à pâte\n1/2 c. à table de sel\n\n\n\nPréparation\n\nMélanger au pied mélangeur ou au blender pour défaire le gruau\ncuire sur une plaque\nconvient pour un déjeuner de 4 personne"
   },
   {
     "objectID": "recettes/desserts/croustarde_pommes.html",
@@ -112,10 +91,38 @@
     "text": "Extras\n\nAjouter des poires au mélange de pommes"
   },
   {
-    "objectID": "recettes/entrees.html",
-    "href": "recettes/entrees.html",
-    "title": "Entrées",
+    "objectID": "recettes/desserts/muffin_Carottes.html",
+    "href": "recettes/desserts/muffin_Carottes.html",
+    "title": "Muffins aux carottes",
     "section": "",
-    "text": "Entrées\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
+    "text": "⏱️ Cuisson : 25 min🍰 Catégorie : Dessert, CarottesPar Xavier Roy"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#secs",
+    "href": "recettes/desserts/muffin_Carottes.html#secs",
+    "title": "Muffins aux carottes",
+    "section": "Secs",
+    "text": "Secs\n\n1 1/2 tasse de farine tout-usage ou au blé entier\n1/2 tasse de flocons d’avoine\n1 c. à thé de bicarbonate de soude\n1/2 c. à thé de poudre à pâte\n1 c. à thé de cannelle moulue\n1/2 c. à thé de sel"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#humides",
+    "href": "recettes/desserts/muffin_Carottes.html#humides",
+    "title": "Muffins aux carottes",
+    "section": "Humides",
+    "text": "Humides\n\n2 tasses de carottes râpées\n1/3 tasse d’huile végétale de saveur neutre, (ex. de canola, d’avocat)\n2/3 tasse de sirop d’érable ou Cassonde\n3/4 tasse de yogourt nature ou à la vanille\n2 oeufs\n1 c. à thé d’extrait de vanille"
+  },
+  {
+    "objectID": "recettes/desserts/muffin_Carottes.html#extras",
+    "href": "recettes/desserts/muffin_Carottes.html#extras",
+    "title": "Muffins aux carottes",
+    "section": "Extras",
+    "text": "Extras\n\n1 tasse de pacanes ou de noix de Grenoble hachées\n1 tasse de caneberge"
+  },
+  {
+    "objectID": "recettes/entrees/muffin_Carottes.html",
+    "href": "recettes/entrees/muffin_Carottes.html",
+    "title": "tempo",
+    "section": "",
+    "text": "tempo⏱️ Cuisson : 25 min🍰 Catégorie : Dessert, CarottesPar Xavier Roy\n\nIngrédients\n\n\nPréparation\n\nPréchauffer le four à 375°F\nDans un grand bol, mélanger les ingrédients secs à l’aide d’une fourchette\nAu centre des ingrédients secs, ajouter les ingrédients humides (pas les carottes). Mélanger à la main avec la fourchette jusqu’à ce que les ingrédients secs et humides forment un mélange uniforme\nAjouter les carottes râpées et les petits extras au choix. Mélanger une dernière fois\nRépartir la pâte dans 12 moules à muffins\nCuire au four de 20 à 25 minutes (vérifier après 20 minutes) ou jusqu’à ce que le bout d’un petit couteau coupant piqué au centre d’un muffin en ressorte propre"
   }
 ]

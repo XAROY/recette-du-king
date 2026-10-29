@@ -2,14 +2,22 @@
   {
     "listing": "/index.html",
     "items": [
+      "/recettes/desserts/gateau_dans_une_tasse.html",
       "/recettes/dejeuners/crepe_gruau.html",
       "/recettes/plats-principaux/poulet_katsu.html",
       "/recettes/desserts/muffin_Carottes.html",
+      "/recettes/entrees/muffin_Carottes.html",
       "/recettes/desserts/croustarde_pommes.html",
       "/recettes/dejeuners.html",
       "/recettes/desserts.html",
       "/recettes/entrees.html",
       "/recettes/plats-principaux.html"
+    ]
+  },
+  {
+    "listing": "/recettes/entrees.html",
+    "items": [
+      "/recettes/entrees/muffin_Carottes.html"
     ]
   },
   {
@@ -28,11 +36,8 @@
     "listing": "/recettes/desserts.html",
     "items": [
       "/recettes/desserts/croustarde_pommes.html",
+      "/recettes/desserts/gateau_dans_une_tasse.html",
       "/recettes/desserts/muffin_Carottes.html"
     ]
-  },
-  {
-    "listing": "/recettes/entrees.html",
-    "items": []
   }
 ]
